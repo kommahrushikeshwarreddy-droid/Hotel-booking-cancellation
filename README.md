@@ -37,7 +37,4 @@ This project focuses on analyzing hotel booking data and predicting whether a bo
 ## 📈 Results
 The model successfully identifies booking cancellation patterns and achieves good prediction accuracy, helping hotels take preventive actions.
 
-## 🚀 How to Run the Project
-1. Clone the repository
-```bash
-git clone https://github.com/kommahrushikeshwarreddy-droid/Hotel-booking-cancellation.git
+
