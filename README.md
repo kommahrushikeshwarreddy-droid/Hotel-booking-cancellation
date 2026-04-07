@@ -1,2 +1,2 @@
-#HOTEL BOOKING CANCELLATTION
+HOTEL BOOKING CANCELLATTION
 Hotel booking cancellation refers to the rules and process that let guests cancel reservations, defining deadlines, fees, and refunds. Clear policies protect hotel revenue while offering guests flexibility, ensuring fair handling of last‑minute changes and no‑shows for both parties.”
